@@ -1,4 +1,4 @@
-module gitlab.magicleap.io/ml-compute/s3-utility
+module github.com/romachalm/s3-utility
 
 go 1.14
 

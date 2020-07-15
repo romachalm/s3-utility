@@ -1,4 +1,4 @@
-* S3 Utility
+# S3 Utility
 
 This small utility allows to upload and download files to/from bucket
 
