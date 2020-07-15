@@ -39,6 +39,6 @@ It will fail if `local_file` already exists locally
 ## Install
 
 ```
-go get gitlab.magicleap.io/ml-compute/s3-utility
+go get github.com/romachalm/s3-utility
 ```
 
